@@ -9,5 +9,6 @@ public class Main {
         mciri.setEditionsYear(2021);
         System.out.println(mciri);
         System.out.println(ruslanILudmila);
+        //Домашняя работа
         }
 }
